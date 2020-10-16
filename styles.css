@@ -1,12 +1,60 @@
 #title_text {
     font-size: 40px;
-    margin: 0px;
+    margin: 5px;
+    border: 5px;
     text-align: center;
     font-weight:bold;
     letter-spacing: 20px;
     color: #696969;
+    font-family: Microsoft JhengHei;
+    /* border-style:double; */
 }
 
 #name {
+    text-align: center;
+    font-family: Microsoft JhengHei;
+}
+
+#all {
+    display: inline-block;
+    margin:15px auto;
+    text-align: justify;
+    vertical-align: middle;
+}
+
+#first_head, #second_head, #third_head, #fourth_head, #fifth_head, #sixth_head, #seventh_head, #eighth_head {
+    width: 150px;
+    height: auto;
+    border-radius: 50%;
+}
+
+#first_name, #second_name, #third_name, #fourth_name, #fifth_name, #sixth_name, #seventh_name, #eighth_name {
+    font-family: "微軟正黑體";
+    font-size: 18px;
+    color: #707070;
+    text-align: center;
+}
+
+.first_line div {
+    display: inline-block;
+    vertical-align: top;
+    width: 150px;
+    height: 250px;
+    margin: 0px 50px;
+}
+
+.second_line div {
+    display: inline-block;
+    vertical-align: top;
+    width: 150px;
+    height: 250px;
+    margin: 0px 50px;
+}
+
+.first_line {
+    text-align: center;
+}
+
+.second_line {
     text-align: center;
 }
