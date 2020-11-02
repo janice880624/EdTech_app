@@ -1,0 +1,2 @@
+C:\Users\Administrator\Desktop\EdTech\EdTech_game\EdTech_game.Tests\obj\Debug\EdTech_game.Tests.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\EdTech\EdTech_game\EdTech_game.Tests\obj\Debug\EdTech_game.Tests.csproj.CoreCompileInputs.cache
